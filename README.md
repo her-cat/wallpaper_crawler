@@ -1,10 +1,7 @@
-## 原文地址
-[http://www.hexianghui.net/php/2018/04/06/Use-PHP-to-crawl-wallpaper.html]([http://www.hexianghui.net/php/2018/04/06/Use-PHP-to-crawl-wallpaper.html)
-
 ## 使用方法
 ### clone 仓库
 ```
-$ git clone https://github.com/hexianghui/wallpaper_crawler.git
+$ git clone https://github.com/her-cat/wallpaper_crawler.git
 ```
 ### 更新依赖包
 ```
